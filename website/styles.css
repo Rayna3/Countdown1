@@ -1,0 +1,13 @@
+body {
+    background-color: #e7dfd9;
+}
+.title {
+    text-align: center;
+}
+img {
+    border-radius: 10px;
+    margin-inline: 2%;
+}
+#heading {
+    font-weight: bold;
+}
